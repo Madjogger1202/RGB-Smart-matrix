@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "XL-B1010RGBT-HF")(type "KiCad")(uri "${KIPRJMOD}/library/XL-B1010RGBT-HF.pretty")(options "")(descr ""))
+  (lib (name "SM16306SJ")(type "KiCad")(uri "${KIPRJMOD}/library/SM16306SJ.pretty")(options "")(descr ""))
+  (lib (name "MT9700")(type "KiCad")(uri "${KIPRJMOD}/library/MT9700.pretty")(options "")(descr ""))
+)
